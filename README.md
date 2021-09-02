@@ -11,10 +11,10 @@ MUST HAVE JAVA INSTALLED
 
 # How to Play
 
-UP ARROW | MOVE UP\
-DOWN ARROW | MOVE DOWN\
-LEFT ARROW | MOVE LEFT\
-RIGHT ARROW | MOVE RIGHT\
-SPACEBAR | ACTIVATE
+UP ARROW | move up\
+DOWN ARROW | move down\
+LEFT ARROW | move left\
+RIGHT ARROW | move right\
+SPACEBAR | activate
 
 The goal of the game is to lead each koala bear to an exit, while avoiding the saws. Walking up to switches and activating them will unlock their color-coordinaated lock.
