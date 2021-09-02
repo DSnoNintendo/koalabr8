@@ -1,12 +1,11 @@
-# csc413-SecondGame
+# Welcome to Koalabr8!
 
-## Student Name  :
-## Student ID    :
+Koalabr8 is a maze game programmed in Java in which players try to a family of Koalas escape from a labyrinth. The only catch is when one Koala moves, all the Koalas move. Players must think a few steps ahead to win in this game.
 
+# How to Play
 
-## src folder is to be used to store source code only.
-
-## resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-## jar folder is used to store the built jar of your term-project. NO SOURCE CODE SHOULD BE IN THIS FOLDER. DOING SO WILL CAUSE POINTS TO BE DEDUCTED
-# koalabr8
+|   UP ARROW   |  MOVE UP    |
+|  DOWN ARROW  |  MOVE DOWN  |
+|  LEFT ARROW  |  MOVE LEFT  |
+|  RIGHT ARROW |  MOVE RIGHT |
+|  SPACEBAR.   |  ACTIVATE   |
