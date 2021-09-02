@@ -4,8 +4,8 @@ Koalabr8 is a maze game programmed in Java in which players try to a family of K
 
 # How to Play
 
-|&nbsp; &nbsp; &nbsp;UP ARROW&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp;MOVE UP&nbsp; &nbsp; &nbsp; &nbsp;|\
-|&nbsp; &nbsp;DOWN ARROW&nbsp; &nbsp; &nbsp;|&nbsp; &nbsp;MOVE DOWN&nbsp; &nbsp;|\
-|&nbsp; &nbsp;LEFT ARROW&nbsp; &nbsp;|  MOVE LEFT&nbsp; &nbsp;|\
-|&nbsp; &nbsp;RIGHT ARROW&nbsp;|&nbsp; &nbsp;MOVE RIGHT&nbsp;|\
-|&nbsp; &nbsp;SPACEBAR&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp;ACTIVATE&nbsp; &nbsp; &nbsp;|\
+UP ARROW | MOVE UP 
+DOWN ARROW | MOVE DOWN
+LEFT ARROW | MOVE LEFT
+RIGHT ARROW | MOVE RIGHT
+SPACEBAR | ACTIVATE
